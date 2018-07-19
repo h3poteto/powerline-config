@@ -43,6 +43,9 @@
 				}
 			},
 			{
+				"function": "powerline.segments.common.net.external_ip"
+			},
+			{
 				"function": "powerline.segments.common.env.user"
 			}
 		]
